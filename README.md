@@ -1,2 +1,2 @@
 # practica-cpp
-Aqui ejecuto ejercicios donde prectico c++ guiados por el curso de youtube prog. novato
+Aquí ejecuto ejercicios donde practico c++ guiados por el curso de youtube prog.Novato y trato de entender una mejor logica de programación.
